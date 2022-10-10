@@ -8,3 +8,4 @@ Right now, I'm looking at these platforms:
  - CloudFlare Pages
  - Netlify
  - Render.com
+ - Vercel
