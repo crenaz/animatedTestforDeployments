@@ -9,3 +9,5 @@ Right now, I'm looking at these platforms:
  - Netlify
  - Render.com
  - Vercel
+
+P. S. I forgot to mention: fly.io, they're also pretty cool.
